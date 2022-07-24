@@ -1,4 +1,5 @@
 Hello World A
 add one file devA
 edit from server
+update from local
 edit from server2
